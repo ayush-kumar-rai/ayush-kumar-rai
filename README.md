@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ayush-kumar-rai
 - 👀 I’m interested in DATA ANALYTICS
-- 🌱 I’m currently learning C++ AND PHYTHON 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @+91-8873679021 @ INSTAGRAM- ayushk_rai
+- 🌱 I’m currently learning and working on Python , Power BI and Excel.
+- 📫 How to reach me - ayushkumarrai01@gmail.com
 
 <!---
 ayush-kumar-rai/ayush-kumar-rai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
