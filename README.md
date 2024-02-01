@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayush-kumar-rai
-- 👀 I’m interested in DATA ANALYTICS
-- 🌱 I’m currently learning and working on Python , Power BI and Excel.
+- 👀 I’m a Data Analyst Trainee
+- 🌱 I’m currently learning and working on Python , Power BI and Excel, AWS.
 - 📫 How to reach me - ayushkumarrai01@gmail.com
 
 <!---
